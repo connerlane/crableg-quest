@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=scoreIn
+comment0.target=VictoryScore(int)
+comment1.params=
+comment1.target=int\ getScore()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

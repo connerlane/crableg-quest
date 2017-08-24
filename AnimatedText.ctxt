@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ fadeInAndOutAndMove()
+comment1.params=
+comment1.target=int\ getTransparency()
+comment2.params=
+comment2.target=void\ fadeIn()
+numComments=3

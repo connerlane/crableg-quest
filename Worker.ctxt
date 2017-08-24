@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=number
+comment0.target=Worker(int)
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ disable()
+comment4.params=
+comment4.target=boolean\ getDisabled()
+comment5.params=
+comment5.target=void\ pursuePlayer()
+comment6.params=
+comment6.target=void\ checkForWalls()
+comment7.params=
+comment7.target=void\ runAnimation()
+comment8.params=
+comment8.target=void\ walkAnimation()
+numComments=9

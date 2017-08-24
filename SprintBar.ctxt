@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SprintBar()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ setLength()
+comment3.params=
+comment3.target=void\ handleKeyPress()
+comment4.params=
+comment4.target=void\ setInitialLength()
+comment5.params=
+comment5.target=void\ restoration()
+comment6.params=
+comment6.target=int\ getEnergy()
+numComments=7
